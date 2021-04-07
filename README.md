@@ -1,6 +1,8 @@
 # Kattis solutions
 
-My solutions for some of the kattis problems.
+My solutions for some of the [Kattis](https://www.kattis.com/) problems.
 
 ## Martian DNA:
-Read more on [my blog](https://antonbaeckelandt.be/posts/5) (dutch).
+[Problem explanation](https://open.kattis.com/problems/martiandna)
+
+Read about the solution on [my blog](https://antonbaeckelandt.be/posts/5) (dutch).
